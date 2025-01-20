@@ -8,20 +8,20 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 //contact details
-global.ownernomer = "492713876676"
-global.owner = ["492713876676"]
-global.ownername = "Avast"
+global.ownernomer = "19176192739"
+global.owner = ["19176192739"]
+global.ownername = "Drkxn"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '492713876676'  //creator number
-global.ownername = 'Avast' //owner name
+global.ownernumber = '19176192739'  //creator number
+global.ownername = 'DRKXN' //owner name
 global.botname = 'Xeon Bug Bot V12' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = '🦄DRKXN\n\nContact: 19176192739'
 
 //console view/theme
 global.themeemoji = '🪀'
